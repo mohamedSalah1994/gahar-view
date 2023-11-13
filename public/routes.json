@@ -1,0 +1,4 @@
+{
+    "/login/login*": "/users",
+    "/Register/Register*": "/users"
+}
